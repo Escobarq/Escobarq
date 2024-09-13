@@ -1,6 +1,6 @@
 # Juan David Escobar Quezada
 
-## 👋 Hola, soy Escoq
+## 👋 Hola, soy Escobarq
 
 Bienvenido a mi rincón de GitHub. Soy un apasionado por el analisis y desarrollo de software en mi pais Colombia.
 
@@ -35,7 +35,7 @@ Bienvenido a mi rincón de GitHub. Soy un apasionado por el analisis y desarroll
 
 ### 🤝 Conéctate conmigo
 
-[![LinkedIn]https://www.linkedin.com/in/juan-david-escobar-quezada-380430302/
+[![LinkedIn](https://www.linkedin.com/in/juan-david-escobar-quezada-380430302/)
 ---
 
 ⭐️ De [Escobarq]((https://github.com/Escobarq/))
