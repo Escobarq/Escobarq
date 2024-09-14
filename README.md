@@ -15,23 +15,13 @@ Bienvenido a mi rincón de GitHub. Soy un apasionado por el analisis y desarroll
 
 ### 🛠 Habilidades y Tecnologías
 
-- Lenguajes de programación: Java , Js , Ts , Py
+- Lenguajes de programación: Java , Javascript , Typescript , Python
 - Frameworks y bibliotecas: React,Javafx
 - Herramientas y plataformas: Base de Datos relacionales : Mysql ,Posgrestsql
 
 ### 📊 Mis estadísticas de GitHub
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Escobarq&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📌 Proyectos Destacados
-
-- [Nombre del Proyecto 1](enlace al proyecto) - Breve descripción
-- [Nombre del Proyecto 2](enlace al proyecto) - Breve descripción
-
-### 📚 Últimos Posts de Blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ### 🤝 Conéctate conmigo
 
