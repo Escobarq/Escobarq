@@ -47,7 +47,7 @@ Analista y Desarrollador de Software enfocado en la **calidad del código** y la
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Escobarq&theme=radical" alt="Lenguajes más usados" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Escobarq&theme=radical" alt="Resumen General" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?Escoobcarq=Escobarq&theme=radical" alt="Resumen General" />
 </p>
 
 ---
