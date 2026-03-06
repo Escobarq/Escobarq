@@ -42,7 +42,7 @@ Analista y Desarrollador de Software enfocado en la **calidad del código** y la
 
 ### 📊 Actividad en GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Escobarq&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
+  [![Your GitHub stats](https://github-readme-stats.vercel.app/api?Escobarq=Escobarq)](https://github.com/Escobarq/github-readme-stats)
 </p>
 
 ---
