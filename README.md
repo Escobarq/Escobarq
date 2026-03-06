@@ -39,10 +39,18 @@ Analista y Desarrollador de Software enfocado en la **calidad del código** y la
 - **Gestión:** Jira, Trello, Slack.
 
 ---
+### 📊 Mis Estadísticas de GitHub
 
-### 📊 Actividad en GitHub
 <p align="center">
-  [![Your GitHub stats](https://github-readme-stats.vercel.app/api?Escobarq=Escobarq)](https://github.com/Escobarq/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Escobarq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Escobarq" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Escobarq&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados por Escobarq" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Escobarq&theme=radical&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
