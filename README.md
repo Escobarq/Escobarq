@@ -42,15 +42,12 @@ Analista y Desarrollador de Software enfocado en la **calidad del código** y la
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Escobarq&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Escobarq" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Escobarq&theme=radical" alt="Estadísticas Detalladas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Escobarq&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados por Escobarq" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Escobarq&theme=radical&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Escobarq&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Escobarq&theme=radical" alt="Resumen General" />
 </p>
 
 ---
